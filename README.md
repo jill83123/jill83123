@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋
 
 <!--
 **jill83123/jill83123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<samp>Hi, I'm YU-FANG 😄</samp>
+
+[![wakatime](https://wakatime.com/badge/user/92046622-8892-4efb-a574-3db4d5eb137e.svg)](https://wakatime.com/@92046622-8892-4efb-a574-3db4d5eb137e)
+
