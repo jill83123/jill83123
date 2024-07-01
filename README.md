@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 [![wakatime](https://wakatime.com/badge/user/92046622-8892-4efb-a574-3db4d5eb137e.svg)](https://wakatime.com/@92046622-8892-4efb-a574-3db4d5eb137e)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jill83123&layout=compact&bg_color=65,f9edee,faeaea,ececf7,e3eeff&title_color=434d70&text_color=494949&border_color=5762876e)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jill83123&layout=compact&bg_color=65,f9edee,faeaea,ececf7,e3eeff&title_color=434d70&text_color=494949&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
